@@ -4,7 +4,7 @@ To find
 
 • What is the total price of all products in the dataset?			
 total sum of prices  =SUM(D2:D35) =10100  =SUM(num1,[num2] ,..)
-Total sum of prices of all products with quantity = prices*Quantity =PRODUCT(D2*E2) Then drag and calculate the sum  SUM(I38:I71)=289700
+Total sum of prices of all products with quantity = prices*Quantity =PRODUCT(D2 * E2) Then drag and calculate the sum  SUM(I38:I71)=289700
 Summing all the products, as shown in the Dth column. The total sum can be calculated by multiplying prices by quantity.
 
 • How many products are there in the dataset?		
